@@ -1,0 +1,23 @@
+.m-content {
+    font-family: roboto;
+}
+
+.fillter-area {
+    border: 1px solid #777777;
+    border-top: none;
+}
+
+.fillter-title {
+    background-color: #1F3247;
+    color: #fff;
+    padding: 10px 30px;
+}
+
+.fillter-name {
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.btn-fillter {
+    width: 120px;
+}
